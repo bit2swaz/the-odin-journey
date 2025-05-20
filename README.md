@@ -18,4 +18,39 @@ This repo serves 3 purposes:
 
 ---
 
-##
+## Structure
+
+- **/logs** → Daily learning logs (What I worked on, Struggles, Goals, Wins)
+- **/projects** → Mini projects built along the way (like Rock Paper Scissors, Calculator, etc.)
+- **/experiments** → Playground for random JS/HTML/CSS practice
+- **README.md** → This file you're reading
+
+---
+
+## Current Status
+
+- **Stage**: Foundations Course  
+- **Progress**: 87% Complete  
+- **Next Milestone**: Complete Calculator Project + Foundations wrap-up by **21st May 2025**  
+- **Next Path**: Fullstack JavaScript (Node.js + MongoDB)
+
+---
+
+## Daily Execution Philosophy
+
+- **No zero days**: Minimum 1 commit daily  
+- **Push through friction**: If it’s hard, I’m probably learning  
+- **Grind in public**: Transparency > perfection  
+- **Aim**: 1 Cr+ in-hand income straight out of college through skill + leverage
+
+---
+
+## Connect with me
+
+- Twitter: [@bit2swaz](https://twitter.com/bit2swaz)  
+- Instagram: [@bit2swaz](https://instagram.com/bit2swaz)
+
+---
+
+> _"Nobody cares about your potential, only your execution."_  
+> – Me
