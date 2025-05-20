@@ -1,8 +1,8 @@
-# The Odin Project – My Daily Journey
+# The Odin Journey
 
-This repo contains my day-by-day logs, notes, and reflections as I go from beginner to full-stack developer.
+Welcome to my public learning log and execution journal as I build my way through [The Odin Project](https://www.theodinproject.com/)'s Fullstack Web Development curriculum.
 
-## Why?
-To stay consistent, build a public trail of progress, and stay accountable to myself.
+This repository is my **accountability tracker**, where I document my **daily progress**, **struggles**, and **breakthroughs** as I learn HTML, CSS, JavaScript, Git, and eventually dive deep into backend, databases, and fullstack application development.
 
-Let's build.
+---
+
