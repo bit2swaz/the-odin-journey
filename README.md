@@ -6,3 +6,16 @@ This repository is my **accountability tracker**, where I document my **daily pr
 
 ---
 
+## Why this exists
+
+Most people learn in silence. I want to learn **out loud**—to show what it actually takes to go from 0 to professional, one consistent day at a time.
+
+This repo serves 3 purposes:
+
+1. **Proof-of-work**: Every day I ship something, no matter how small.
+2. **Accountability**: I track my learning journey publicly, no hiding.
+3. **Inspiration**: For others starting from scratch — this is how it looks.
+
+---
+
+##
