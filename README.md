@@ -20,9 +20,9 @@ This repo serves 3 purposes:
 
 ## Structure
 
-- **/logs** → Daily learning logs (What I worked on, Struggles, Goals, Wins)
-- **/projects** → Mini projects built along the way (like Rock Paper Scissors, Calculator, etc.)
-- **/experiments** → Playground for random JS/HTML/CSS practice
+- **logs** → Daily learning logs (What I worked on, Struggles, Goals, Wins)
+- **projects** → Mini projects built along the way (like Rock Paper Scissors, Calculator, etc.)
+- **experiments** → Playground for random JS/HTML/CSS practice
 - **README.md** → This file you're reading
 
 ---
