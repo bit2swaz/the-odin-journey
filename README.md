@@ -21,7 +21,7 @@ This repo serves 3 purposes:
 ## Structure
 
 - **Logs** → Daily learning logs (What I worked on, Struggles, Goals, Wins)
-- **Projects** → Mini projects built along the way (like Rock Paper Scissors, Calculator, etc.)
+- **Projects** → Mini projects built along the way (like Rock Paper Scissors, AuraCalc, etc.)
 - **Experiments** → Playground for random JS/HTML/CSS practice
 - **README.md** → This file you're reading
 
@@ -29,10 +29,11 @@ This repo serves 3 purposes:
 
 ## Current Status
 
-- **Stage**: Foundations Course  
-- **Progress**: 93% Complete  
-- **Next Milestone**: Complete Calculator Project + Foundations wrap-up by **22nd May 2025**  
-- **Next Path**: Fullstack JavaScript (Node.js + MongoDB)
+- **Stage**: **Foundations Course - COMPLETED!**
+- **Progress**: **100% Complete**
+- **Projects Completed in Foundations**: **5** (including Rock Paper Scissors, Etch-A-Sketch, Flexbox Landing Page, and AuraCalc Calculator)
+- **Next Milestone**: Comprehensive revision of Foundations and preparation for Full Stack JavaScript.
+- **Next Path**: Fullstack JavaScript (Node.js + MongoDB), officially starting **May 26th, 2025**
 
 ---
 
