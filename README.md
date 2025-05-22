@@ -30,8 +30,8 @@ This repo serves 3 purposes:
 ## Current Status
 
 - **Stage**: Foundations Course  
-- **Progress**: 87% Complete  
-- **Next Milestone**: Complete Calculator Project + Foundations wrap-up by **21st May 2025**  
+- **Progress**: 93% Complete  
+- **Next Milestone**: Complete Calculator Project + Foundations wrap-up by **22nd May 2025**  
 - **Next Path**: Fullstack JavaScript (Node.js + MongoDB)
 
 ---
