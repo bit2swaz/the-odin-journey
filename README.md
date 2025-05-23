@@ -31,7 +31,7 @@ This repo serves 3 purposes:
 
 - **Stage**: **Foundations Course - COMPLETED!**
 - **Progress**: **100% Complete**
-- **Projects Completed in Foundations**: **5** (including Rock Paper Scissors, Etch-A-Sketch, Flexbox Landing Page, and AuraCalc Calculator)
+- **Projects Completed in Foundations**: **5** (including Rock Paper Scissors, Etch-A-Sketch, Landing Page, and AuraCalc Calculator)
 - **Next Milestone**: Comprehensive revision of Foundations and preparation for Full Stack JavaScript.
 - **Next Path**: Fullstack JavaScript (Node.js + MongoDB), officially starting **May 26th, 2025**
 
@@ -50,6 +50,7 @@ This repo serves 3 purposes:
 
 - Twitter: [@bit2swaz](https://twitter.com/bit2swaz)  
 - Instagram: [@bit2swaz](https://instagram.com/bit2swaz)
+- Linkedin: [Aditya Mishra](https://www.linkedin.com/in/aditya-mishra-b82a61362/)
 
 ---
 
