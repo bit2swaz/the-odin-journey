@@ -39,16 +39,16 @@ This repo serves 3 purposes:
 
 ## Daily Execution Philosophy
 
-- **No zero days**: Minimum 1 commit daily  
-- **Push through friction**: If it’s hard, I’m probably learning  
-- **Grind in public**: Transparency > perfection  
+- **No zero days**: Minimum 1 commit daily
+- **Push through friction**: If it’s hard, I’m probably learning
+- **Grind in public**: Transparency > perfection
 - **Aim**: 1 Cr+ in-hand income straight out of college through skill + leverage
 
 ---
 
 ## Connect with me
 
-- Twitter: [@bit2swaz](https://twitter.com/bit2swaz)  
+- Twitter: [@bit2swaz](https://twitter.com/bit2swaz)
 - Instagram: [@bit2swaz](https://instagram.com/bit2swaz)
 - Linkedin: [Aditya Mishra](https://www.linkedin.com/in/aditya-mishra-b82a61362/)
 
